@@ -4,8 +4,7 @@ CS 스터디를 위한 공간입니다. 컴퓨터구조, 운영체제, 네트워
 - 선정책 : 혼자 공부하는 컴퓨터 구조 + 운영체제
 ![IMG_2367](https://github.com/deltawing71911/2024-Computer-Science-Study/assets/137012201/b66609d4-21c2-42fa-bac9-03fe6407095d)
 ## 운영체제
-- 선정책 : 혼자 공부하는 컴퓨터 구조 + 운영체제 혹은 공룡책 중에서 고민중입니다.
-![IMG_2367](https://github.com/deltawing71911/2024-Computer-Science-Study/assets/137012201/b66609d4-21c2-42fa-bac9-03fe6407095d)
+- 선정책 : 공룡책 
 ![IMG_2368](https://github.com/deltawing71911/2024-Computer-Science-Study/assets/137012201/4e909092-f819-4412-8d7b-1903fd057d23)
 ## 네트워크
 - 선정책 : IT 엔지니어를 위한 네트워크 입문
